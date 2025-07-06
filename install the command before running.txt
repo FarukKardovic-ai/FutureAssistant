@@ -1,0 +1,7 @@
+pip install python-dotenv
+pip install openai
+pip install flask
+pip install Flask-WTF
+pip install newsapi-python
+cd Projekat
+python app.py
